@@ -1,0 +1,66 @@
+.jumbotron {
+	background-image: url(https://images.unsplash.com/photo-1463171379579-3fdfb86d6285?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	margin-bottom: 0;
+}
+
+.display-4 {
+	display: flex;
+	justify-content: center;
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	font-size: 250px;
+}
+.navbar-nav{
+	display: flex;
+	align-content: stretch;
+}
+.nav-item {
+	font-size: 120%;
+
+}
+.btn {
+	display: flex;
+	justify-content: center;
+	margin: 0;
+	margin-bottom: 0;
+
+}
+.modal-title {
+	font-family: 'Lato', sans-serif;
+
+}
+.modal-body {
+	font-family: 'Lato', sans-serif;
+  
+}
+
+.carousel {
+  height: 500px !important;
+  margin-top: 0;
+
+}
+.carousel-inner img {
+  height: 600px !important;
+  margin: 0 auto;
+}
+.carousel-indicators li {
+  border-color: #000;
+}
+.carousel-indicators .active {
+  background-color: #000;
+}
+
+a { 
+	font-family: 'Titillium Web', sans-serif;
+
+ }
+
+p {
+	display: flex;
+	justify-content: center; 
+
+}
